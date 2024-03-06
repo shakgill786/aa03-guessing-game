@@ -1,0 +1,1 @@
+# tech-setup-check
