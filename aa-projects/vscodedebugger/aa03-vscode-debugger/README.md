@@ -128,3 +128,4 @@ Start debugging!
 [debug-local-3]: https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Modular-Curriculum/content/javascript/nodejs/vscode-debugger/debug_local_3.png
 [debug-local-4]: https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Modular-Curriculum/content/javascript/nodejs/vscode-debugger/debug_local_4.png
 [wsl-window-title]: https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Modular-Curriculum/content/javascript/nodejs/vscode-debugger/wsl-window-title.png
+# VSCode-Debugger-Practice
